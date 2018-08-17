@@ -1,0 +1,6 @@
+D:\Exemplos\Exemplo6\Exemplo6\bin\Debug\Exemplo6.exe.config
+D:\Exemplos\Exemplo6\Exemplo6\bin\Debug\Exemplo6.exe
+D:\Exemplos\Exemplo6\Exemplo6\bin\Debug\Exemplo6.pdb
+D:\Exemplos\Exemplo6\Exemplo6\obj\Debug\Exemplo6.csproj.CoreCompileInputs.cache
+D:\Exemplos\Exemplo6\Exemplo6\obj\Debug\Exemplo6.exe
+D:\Exemplos\Exemplo6\Exemplo6\obj\Debug\Exemplo6.pdb

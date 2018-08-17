@@ -1,0 +1,14 @@
+D:\Exemplos\Exemplo13\Exemplo13\bin\Debug\Exemplo13.exe.config
+D:\Exemplos\Exemplo13\Exemplo13\bin\Debug\Exemplo13.exe
+D:\Exemplos\Exemplo13\Exemplo13\bin\Debug\Exemplo13.pdb
+D:\Exemplos\Exemplo13\Exemplo13\obj\Debug\Exemplo13.csprojAssemblyReference.cache
+D:\Exemplos\Exemplo13\Exemplo13\obj\Debug\Exemplo13.csproj.CoreCompileInputs.cache
+D:\Exemplos\Exemplo13\Exemplo13\obj\Debug\Exemplo13.exe
+D:\Exemplos\Exemplo13\Exemplo13\obj\Debug\Exemplo13.pdb
+D:\Exemplos\Algoritmos\Exemplo13\Exemplo13\bin\Debug\Exemplo13.exe.config
+D:\Exemplos\Algoritmos\Exemplo13\Exemplo13\bin\Debug\Exemplo13.exe
+D:\Exemplos\Algoritmos\Exemplo13\Exemplo13\bin\Debug\Exemplo13.pdb
+D:\Exemplos\Algoritmos\Exemplo13\Exemplo13\obj\Debug\Exemplo13.csprojAssemblyReference.cache
+D:\Exemplos\Algoritmos\Exemplo13\Exemplo13\obj\Debug\Exemplo13.csproj.CoreCompileInputs.cache
+D:\Exemplos\Algoritmos\Exemplo13\Exemplo13\obj\Debug\Exemplo13.exe
+D:\Exemplos\Algoritmos\Exemplo13\Exemplo13\obj\Debug\Exemplo13.pdb

@@ -1,0 +1,14 @@
+D:\Exemplos\Exemplo19\Exemplo19\bin\Debug\Exemplo19.exe.config
+D:\Exemplos\Exemplo19\Exemplo19\bin\Debug\Exemplo19.exe
+D:\Exemplos\Exemplo19\Exemplo19\bin\Debug\Exemplo19.pdb
+D:\Exemplos\Exemplo19\Exemplo19\obj\Debug\Exemplo19.csprojAssemblyReference.cache
+D:\Exemplos\Exemplo19\Exemplo19\obj\Debug\Exemplo19.csproj.CoreCompileInputs.cache
+D:\Exemplos\Exemplo19\Exemplo19\obj\Debug\Exemplo19.exe
+D:\Exemplos\Exemplo19\Exemplo19\obj\Debug\Exemplo19.pdb
+D:\Exemplos\Algoritmos\Exemplo19\Exemplo19\bin\Debug\Exemplo19.exe.config
+D:\Exemplos\Algoritmos\Exemplo19\Exemplo19\bin\Debug\Exemplo19.exe
+D:\Exemplos\Algoritmos\Exemplo19\Exemplo19\bin\Debug\Exemplo19.pdb
+D:\Exemplos\Algoritmos\Exemplo19\Exemplo19\obj\Debug\Exemplo19.csprojAssemblyReference.cache
+D:\Exemplos\Algoritmos\Exemplo19\Exemplo19\obj\Debug\Exemplo19.csproj.CoreCompileInputs.cache
+D:\Exemplos\Algoritmos\Exemplo19\Exemplo19\obj\Debug\Exemplo19.exe
+D:\Exemplos\Algoritmos\Exemplo19\Exemplo19\obj\Debug\Exemplo19.pdb

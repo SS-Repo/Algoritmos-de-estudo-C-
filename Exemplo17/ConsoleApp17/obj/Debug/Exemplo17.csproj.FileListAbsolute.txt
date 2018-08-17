@@ -1,0 +1,6 @@
+D:\Exemplos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+D:\Exemplos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+D:\Exemplos\ConsoleApp17\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+D:\Exemplos\ConsoleApp17\ConsoleApp17\obj\Debug\Exemplo17.csproj.CoreCompileInputs.cache
+D:\Exemplos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+D:\Exemplos\ConsoleApp17\ConsoleApp17\obj\Debug\ConsoleApp17.pdb

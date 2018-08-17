@@ -1,0 +1,14 @@
+D:\Exemplos\Exemplo11\Exemplo11\bin\Debug\Exemplo11.exe.config
+D:\Exemplos\Exemplo11\Exemplo11\bin\Debug\Exemplo11.exe
+D:\Exemplos\Exemplo11\Exemplo11\bin\Debug\Exemplo11.pdb
+D:\Exemplos\Exemplo11\Exemplo11\obj\Debug\Exemplo11.csprojAssemblyReference.cache
+D:\Exemplos\Exemplo11\Exemplo11\obj\Debug\Exemplo11.csproj.CoreCompileInputs.cache
+D:\Exemplos\Exemplo11\Exemplo11\obj\Debug\Exemplo11.exe
+D:\Exemplos\Exemplo11\Exemplo11\obj\Debug\Exemplo11.pdb
+D:\Exemplos\Algoritmos\Exemplo11\Exemplo11\bin\Debug\Exemplo11.exe.config
+D:\Exemplos\Algoritmos\Exemplo11\Exemplo11\bin\Debug\Exemplo11.exe
+D:\Exemplos\Algoritmos\Exemplo11\Exemplo11\bin\Debug\Exemplo11.pdb
+D:\Exemplos\Algoritmos\Exemplo11\Exemplo11\obj\Debug\Exemplo11.csprojAssemblyReference.cache
+D:\Exemplos\Algoritmos\Exemplo11\Exemplo11\obj\Debug\Exemplo11.csproj.CoreCompileInputs.cache
+D:\Exemplos\Algoritmos\Exemplo11\Exemplo11\obj\Debug\Exemplo11.exe
+D:\Exemplos\Algoritmos\Exemplo11\Exemplo11\obj\Debug\Exemplo11.pdb

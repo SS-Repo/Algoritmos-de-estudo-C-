@@ -1,0 +1,14 @@
+D:\Exemplos\Exemplo10\Exemplo10\bin\Debug\Exemplo10.exe.config
+D:\Exemplos\Exemplo10\Exemplo10\bin\Debug\Exemplo10.exe
+D:\Exemplos\Exemplo10\Exemplo10\bin\Debug\Exemplo10.pdb
+D:\Exemplos\Exemplo10\Exemplo10\obj\Debug\Exemplo10.csprojAssemblyReference.cache
+D:\Exemplos\Exemplo10\Exemplo10\obj\Debug\Exemplo10.csproj.CoreCompileInputs.cache
+D:\Exemplos\Exemplo10\Exemplo10\obj\Debug\Exemplo10.exe
+D:\Exemplos\Exemplo10\Exemplo10\obj\Debug\Exemplo10.pdb
+D:\Exemplos\Algoritmos\Exemplo10\Exemplo10\bin\Debug\Exemplo10.exe.config
+D:\Exemplos\Algoritmos\Exemplo10\Exemplo10\bin\Debug\Exemplo10.exe
+D:\Exemplos\Algoritmos\Exemplo10\Exemplo10\bin\Debug\Exemplo10.pdb
+D:\Exemplos\Algoritmos\Exemplo10\Exemplo10\obj\Debug\Exemplo10.csprojAssemblyReference.cache
+D:\Exemplos\Algoritmos\Exemplo10\Exemplo10\obj\Debug\Exemplo10.csproj.CoreCompileInputs.cache
+D:\Exemplos\Algoritmos\Exemplo10\Exemplo10\obj\Debug\Exemplo10.exe
+D:\Exemplos\Algoritmos\Exemplo10\Exemplo10\obj\Debug\Exemplo10.pdb

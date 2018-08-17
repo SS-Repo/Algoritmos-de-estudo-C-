@@ -1,0 +1,14 @@
+D:\Exemplos\Exemplo15\Exemplo15\obj\Debug\Exemplo15.csprojAssemblyReference.cache
+D:\Exemplos\Exemplo15\Exemplo15\obj\Debug\Exemplo15.csproj.CoreCompileInputs.cache
+D:\Exemplos\Exemplo15\Exemplo15\bin\Debug\Exemplo15.exe.config
+D:\Exemplos\Exemplo15\Exemplo15\bin\Debug\Exemplo15.exe
+D:\Exemplos\Exemplo15\Exemplo15\bin\Debug\Exemplo15.pdb
+D:\Exemplos\Exemplo15\Exemplo15\obj\Debug\Exemplo15.exe
+D:\Exemplos\Exemplo15\Exemplo15\obj\Debug\Exemplo15.pdb
+D:\Exemplos\Algoritmos\Exemplo15\Exemplo15\bin\Debug\Exemplo15.exe.config
+D:\Exemplos\Algoritmos\Exemplo15\Exemplo15\bin\Debug\Exemplo15.exe
+D:\Exemplos\Algoritmos\Exemplo15\Exemplo15\bin\Debug\Exemplo15.pdb
+D:\Exemplos\Algoritmos\Exemplo15\Exemplo15\obj\Debug\Exemplo15.csprojAssemblyReference.cache
+D:\Exemplos\Algoritmos\Exemplo15\Exemplo15\obj\Debug\Exemplo15.csproj.CoreCompileInputs.cache
+D:\Exemplos\Algoritmos\Exemplo15\Exemplo15\obj\Debug\Exemplo15.exe
+D:\Exemplos\Algoritmos\Exemplo15\Exemplo15\obj\Debug\Exemplo15.pdb
