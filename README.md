@@ -4,7 +4,7 @@
  
   Preview:
   O que voce vai encontra aqui?
-  Alguns exemplos praticos de algotimos simples.
+  Alguns exemplos praticos de algoritmos simples.
   
   - POO
   - Getters and Setters
