@@ -8,7 +8,7 @@
   
   - POO
   - Getters and Setters
-  - IF 
+  - IF,IF Reduzido 
   - For,For aninhado
   - Foreach
   - Three Search
