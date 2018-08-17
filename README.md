@@ -11,7 +11,7 @@
   - IF,IF Reduzido 
   - For,For aninhado
   - Foreach
-  - Three Search
+  - Three Search(Javascript)
   - TDD
   - Do, Do While
   - Recursividade 
