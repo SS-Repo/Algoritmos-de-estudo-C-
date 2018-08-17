@@ -19,13 +19,6 @@
   - Tipo Genericos de Listas
   - Try,Catch e Fynally
   
-  Para quem está comecando e uma boa oportunidade para estudar.
-  
-  E para as empresas,e uma otima oportunidade para conhecerem a qualidade de meus codigos.
-  
-  Esperos que todos apreciem.
-  
-  E uma pequena iniciativa de quem ama tecnologia.
   
   Qualquer duvida:  
   ---------------------------------------------------------------------
