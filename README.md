@@ -3,7 +3,7 @@
  -- Alguns Exemplos de Algoritmos --
  
   Preview:
-  O que voce vai encontra aqui?
+  O que voce vai encontrar aqui?
   Alguns exemplos praticos de algoritmos simples.
   
   - POO
